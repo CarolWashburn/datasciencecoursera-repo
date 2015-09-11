@@ -1,2 +1,2 @@
 ##This is a markdown file
-- push Hello World.md
+- git push Hello World.md
