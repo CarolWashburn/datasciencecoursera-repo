@@ -1,2 +1,2 @@
 # datasciencecoursera-repo
-- git add
+- git add .
